@@ -1,5 +1,30 @@
 {
+  "name": "gr4ham18-budget-tracker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js",
+    "lite-server": "lite-server",
+    "watch": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gr4ham18/gr4ham18-budget-tracker"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gr4ham18/gr4ham18-budget-tracker/issues"
+  },
+  "homepage": "https://github.com/gr4ham18/gr4ham18-budget-tracker#readme",
   "dependencies": {
-    "mongoose": "^6.2.7"
+    "compression": "^1.7.4",
+    "express": "^4.17.3",
+    "mongoose": "^6.2.7",
+    "morgan": "^1.10.0",
+    "nodemon": "^2.0.15"
   }
 }
