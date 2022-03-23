@@ -47,5 +47,5 @@ Find me on GitHub: [gr4ham18](https://github.com/gr4ham18)<br />
 
 
 ## screenshot 
-![screenshot](images/screenshot.png)
+![screenshot](./public/images/screenshot.png)
 
